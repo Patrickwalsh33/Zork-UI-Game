@@ -4,9 +4,9 @@
 
 class GameObject {
 public:
-    virtual ~GameObject() = default; //virtual constructor
-    virtual void interact() = 0; //pure virtual function
-    virtual QString getDescription() const = 0; //pure virtual function
+    virtual ~GameObject() = default; 
+    virtual void interact() = 0; 
+    virtual QString getDescription() const = 0; 
 
 protected:
     QString name;
