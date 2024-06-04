@@ -29,4 +29,4 @@ private slots:
     void processCommand(const QString& command);
     void investigate();
 };
-#endif // MAINWINDOW_H
+#endif 
