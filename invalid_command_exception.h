@@ -16,4 +16,4 @@ private:
     QString message_;
 };
 
-#endif // INVALID_COMMAND_EXCEPTION_H
+#endif 
