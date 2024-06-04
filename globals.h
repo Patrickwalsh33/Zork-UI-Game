@@ -7,4 +7,4 @@ struct PlayerHealth{
 
 extern PlayerHealth initialPlayerHealth;
 
-#endif // GLOBALS_H
+#endif 
