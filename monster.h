@@ -14,4 +14,4 @@ private:
     QString description;
 };
 
-#endif // MONSTER_H
+#endif 
