@@ -25,4 +25,4 @@ private:
     QList<GameObject*> objects;
 };
 
-#endif // ROOM_H
+#endif
