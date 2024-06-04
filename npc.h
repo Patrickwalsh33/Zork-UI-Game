@@ -6,11 +6,11 @@
 
 class NPC : public GameObject {
 public:
-    virtual ~NPC() = 0; // Pure virtual destructor
-    virtual QString getDescription() const override = 0; // Pure virtual function
+    virtual ~NPC() = 0; 
+    virtual QString getDescription() const override = 0; 
 };
 
-// Define the destructor outside the class definition
+
 inline NPC::~NPC() {}
 
-#endif // NPC_H
+#endif 
