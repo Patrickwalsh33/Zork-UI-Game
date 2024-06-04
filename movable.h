@@ -15,4 +15,4 @@ protected:
     int posY = 0;
 };
 
-#endif // MOVABLE_H
+#endif
